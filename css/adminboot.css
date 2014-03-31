@@ -1,0 +1,136 @@
+/* 
+    Document   : adminboot
+    Created on : 6-ott-2013, 15.19.48
+    Author     : mattialorenzutti
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.adminMenu .panel-title {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 14px;
+}
+
+.panel-group .panel {
+    border-radius: 0px !Important;
+    box-shadow: none !important;
+    border: 0px !important;
+    background: none !important;
+}
+
+.panel-group .panel+.panel {
+    margin-top: 3px !important;
+}
+
+.panel-default>.panel-heading {
+    padding: 8px;
+    background-color: #EDF2F7 !important;
+}
+
+.adminMenu .panel-body {
+    padding:0px !important;
+    border:0px !important
+
+}
+
+.adminMenu .list-group {
+    margin-bottom:0px;
+
+}
+
+.adminMenu .list-group-item {
+    border-left: 0px;
+    border-right: 0px;
+    border-radius: 0px;
+    padding: 5px;
+    font-size: 12px;
+    padding-left: 8px;
+    background: none;
+    border: 0px;
+}
+
+.container-full {
+    width:100%;
+    margin-top:60px;
+    padding:1%;
+
+}
+
+.adminMenu {
+    background-color: #EDF2F7;
+    padding: 3px;
+    border-radius: 6px;
+
+}
+
+.modulo {
+    border-bottom:1px dashed #EAEAEA;
+    margin-bottom:10px;
+
+}
+
+.modulo_insert {
+    background-color: #F1F1F1;
+    padding: 10px;
+    margin-bottom: 10px;
+
+}
+
+.modulo_insert h3 {
+    margin-top:0px;
+    font-size:20px;
+}
+
+.modulo_insert h2 {
+
+    font-weight: 300;
+    font-size: 24px;
+}
+
+.ajgall_img {
+    border-width:3px !important;
+    
+}
+
+.ajgall_img.active {
+    border-color: #428bca !important;
+    
+}
+
+.handle {
+position: absolute;
+margin-left: -30px;
+cursor: move;
+}
+
+#lista-moduli {
+margin: 0px;
+margin-left: 30px;
+padding: 0px;
+}
+
+img {
+    max-width:100%;
+    
+}
+
+.modulo_view {
+background-color: #FFF;
+border:1px solid #EAEAEA;
+padding: 10px;
+border-radius: 5px;
+margin-bottom: 5px;
+list-style: none;
+}
+
+.modulo_title {
+    font-weight: 300;
+    font-size: 15px;
+    margin-top: 0px;
+}
+
+.module_img {
+    max-width:100%;
+    
+}

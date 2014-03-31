@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+	<buildpathentry excluding="application/models/" kind="src" path=""/>
+	<buildpathentry kind="src" path="application/models"/>
+	<buildpathentry combineaccessrules="false" kind="prj" path="/ci_2_base"/>
+</buildpath>
